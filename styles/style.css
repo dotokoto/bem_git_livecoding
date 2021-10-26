@@ -1,0 +1,38 @@
+.cards {
+    display: flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.cards__item {
+    margin-right: 40px;
+}
+
+.mdl-card_color_green {
+    background: #30d711;
+}
+
+.card {
+    width: 150px;
+    height: 150px;
+    border: 1px solid #000;
+    background: #ffa500;
+}
+
+.card_size_big {
+    width: 300px;
+    height: 300px;
+}
+
+.card_size_small {
+    width: 100px;
+    height: 100px;
+}
+
+.card_background_green {
+    background: #6ec705;
+}
+
+.card__title_size_small {
+    font-size: 10px;
+}
